@@ -62,6 +62,7 @@ To pursue a career in **medicine integrated with computational biology and artif
 ## Learning Journey
 
 Building foundations across biology, computation, and data analysis to develop skills for computational biological research.
+
 ---
 
 ## Contact
