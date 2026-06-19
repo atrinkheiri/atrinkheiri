@@ -1,5 +1,3 @@
-## Hi there 
-
 # Atrin Kheiri
 
 **High School Biology Student | Computational Biology & Bioinformatics Enthusiast**
