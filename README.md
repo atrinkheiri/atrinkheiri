@@ -72,5 +72,5 @@ Building foundations across biology, computation, and data analysis to develop s
 
 * Email: atrin.kheiri@gmail.com
 * GitHub: https://github.com/atrinkheiri
-- ⚡ Fun fact: ...
--
+
+
