@@ -41,13 +41,22 @@ At the moment, I am working on early-stage projects involving:
 ---
 
 ## Tools & Technologies
-* Python
-* Pandas
-* NumPy
-* Matplotlib / Seaborn
-* Jupyter Notebook
-* Basic Machine Learning (Scikit-learn)
+Python
 
+Data Analysis
+• Pandas
+• NumPy
+
+Visualization
+• Matplotlib
+
+Machine Learning
+• Scikit-learn
+
+Development
+• Git
+• GitHub
+• Jupyter Notebook
 ---
 
 ## Long-Term Goal
